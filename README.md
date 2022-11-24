@@ -19,6 +19,11 @@ Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait 
 
 Expliquez, en quelques lignes, ce que fait cette fonction.
 
+### Réponse 1 
+
+Cette fonction prend en paramètre un tableau contenant plusieurs tableaux de 2 nombres entiers. Elle
+effectue un tri sur les intervalles par ordre croissant en fusionnant si possible les intervalles qui se chevauchent. Elle retourne donc les intervalles finales fusionnées si néscessaire.(fonction appellé 'Merge intervals')
+
 ### Question 2
 
 Codez cette fonction.
@@ -28,10 +33,17 @@ Merci de fournir un fichier contenant :
 - l'appel de la fonction, avec un jeu de test en entrée,
 - l'affichage du résultat en sortie.
 
+
+### Réponse 2
+
+Voir reponse.js
 ### Question 3
 
 Précisez en combien de temps vous avez implémenté cette fonction.
 
+### Réponse 3
+
+J'ai fait ce test en 30min environ, la réponse étant présente dans les forks du test, j'ai pu lire quelques exemples pour comprendre et refaire à ma façon.
 ## Merci
 
 Par avance, un grand merci pour le temps que vous consacrerez à ce challenge, en espérant vous voir rejoindre très prochainement [nos équipes](https://www.globalis-ms.com/jobs/) ;) 
